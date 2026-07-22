@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ujf1tt.cnkitabos.xyz/sitemap.xml
